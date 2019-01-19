@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2499327138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6a715d567e43df8197feb3cd4d22f1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5392e501c674e19fbca6fe17519b12e4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 399e7e77abe370d42ac457e3c43d1528, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/SampleAsset/SampleTex.png
+- Assets/SampleAsset/SamplePrefab.prefab
+Dependencies: []
