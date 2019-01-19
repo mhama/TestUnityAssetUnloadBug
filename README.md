@@ -19,7 +19,7 @@ Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of yo
 
 # Verified Unity version to reproduce the issue
 
-2017.4.15f1
+2017.4.15f1 / 2017.4.18f1
 
 # Instruction to reproduce the issue
 
