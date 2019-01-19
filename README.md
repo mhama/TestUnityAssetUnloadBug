@@ -15,6 +15,8 @@ A script behaviour (script unknown or not yet loaded) has a different serializat
 Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
 ```
 
+<img src="https://github.com/mhama/TestUnityAssetUnloadBug/raw/master/bad_logs_on_browser.PNG" width="600px">
+
 # Verified Unity version to reproduce the issue
 
 2017.4.15f1
